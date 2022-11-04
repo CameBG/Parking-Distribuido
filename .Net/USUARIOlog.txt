@@ -1,0 +1,9 @@
+Usuario: USUARIO, Fecha: 03/07/2020 18:03:01, Operacion: Se ha iniciado sesión
+Usuario: USUARIO, IP de la sonda: 192.168.56.101, Fecha: 03/07/2020 18:03:03Operacion: Añadir la siguiente sonda: sonda1
+Usuario: USUARIO, IP de la sonda: 192.168.56.103, Fecha: 03/07/2020 18:03:08Operacion: Añadir la siguiente sonda: sonda1
+Usuario: USUARIO, IP de la sonda: 192.168.56.101, Fecha: 03/07/2020 18:03:13Operacion: Añadir la siguiente sonda: sonda3
+Usuario: USUARIO, IP de la sonda: 192.168.56.101, Fecha: 03/07/2020 18:03:20Operacion: SetLed sobre la sonda:sonda3
+Usuario: USUARIO, IP de la sonda: 192.168.56.103, Fecha: 03/07/2020 18:03:21Operacion: GetUltimaFecha sobre la sonda:sonda1
+Usuario: USUARIO, Fecha: 03/07/2020 18:23:21, Operacion: Se ha iniciado sesión
+Usuario: USUARIO, IP de la sonda: 192.168.56.101, Fecha: 03/07/2020 18:23:23Operacion: Añadir la siguiente sonda: sonda1
+Usuario: USUARIO, Fecha: 03/07/2020 19:23:46, Operacion: Se ha iniciado sesión
